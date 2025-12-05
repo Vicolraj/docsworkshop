@@ -1,1 +1,9 @@
 site_name: My Docs
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About: about.md
+  - Faq: faq.md
+  - get-started: getting-started.md
+
